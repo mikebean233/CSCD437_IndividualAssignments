@@ -1,0 +1,8 @@
+a: problem_a.c
+	gcc problem_a.c -o problem_a
+
+b: problem_b.c
+	gcc problem_b.c -o problem_b
+
+c: problem_c.c
+	gcc prblem_c.c -o problem_c
